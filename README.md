@@ -1,7 +1,7 @@
 # YelpCamp
 A campground rating website
 
-#Basic requirements
+Basic requirements
 MongoDB
 Node and npm
 Steps for installation
