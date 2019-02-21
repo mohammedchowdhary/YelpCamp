@@ -1,5 +1,5 @@
 # YelpCamp
-A campground rating website
+A campground website
 
 **Basic requirements**
 1. MongoDB
